@@ -1,0 +1,9 @@
+/.lake
+venv/
+__pycache__/
+*.pyc
+*.olean
+*.ilean
+*.log
+.lake/
+build/
