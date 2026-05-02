@@ -272,7 +272,7 @@ theorem: 0 ≤ 0.50 ∧ 0.50 ≤ 1 → PROVED ✅
 curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh
 
 # Install Python dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Run the System
