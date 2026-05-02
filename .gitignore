@@ -1,9 +1,14 @@
-/.lake
+# Lean
+.lake/
+*.olean
+*.ilean
+*.cache
+lean_packages/
+
+# Python
 venv/
 __pycache__/
 *.pyc
-*.olean
-*.ilean
-*.log
-.lake/
-build/
+
+# OS
+.DS_Store
